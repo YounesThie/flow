@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://younesthie.github.io/flow-budget/">Live App</a> · 
+  <a href="https://younesthie.github.io/flow/">Live App</a> · 
   <a href="#install">Install as PWA</a> · 
   <a href="#features">Features</a>
 </p>
